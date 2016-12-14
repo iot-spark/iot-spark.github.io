@@ -18,6 +18,6 @@ The basis for our Smart Park would be our very own IoT platform, which will prov
 
 Our team consists of 15 people from different areas of expertise, ranging from embedded and mobile developers to ux-designers and testers. We plan to break into micro-teams, each of which will be responsible for a certain park-service, afterwards we will integrate them all into a single system on our platform.
 
-### Contact
+### Contact us
 
-[twitter](https://twitter.com/iotspark)
+[Vyacheslav Trushkin](https://twitter.com/VCHSLVTRSHKN)
